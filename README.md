@@ -1,4 +1,4 @@
-words
+This is a web page (words)
 =====
 
-This a web page, made of words
+This is a web page, made of words
